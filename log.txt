@@ -1,1 +1,2 @@
 Logs in Git
+2nd log incoming!!
